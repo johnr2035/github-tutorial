@@ -29,7 +29,13 @@ _by John Raffaele_
 ###### - Add the SSH key.
 ---
 ## Repository Setup
-###### -
+#### How to make a repository:
+###### - Open the terminal in cloud9.
+##### Type ALL of this:
+###### - mkdir first-repo
+###### - cd first-repo
+###### - git init
+
 
 
 ---
