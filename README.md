@@ -17,12 +17,19 @@ _by John Raffaele_
 ###### - [github.com](github.com) - your computer local machine. 
 ---
 ## Initial Setup
-###### Go to [github.com](github.com)
-
-
+###### - Go to [github.com](github.com)
+###### - Click on the top right and click on the profile icon.
+###### - Click on settings.
+###### - Look on the left sidebar and click on SSH and GPG keys.
+###### - Click on New SSH Key
+###### - Make the title cloud9
+######  Key: 
+###### - Switch to the cloud9 tab > top right gear icon
+###### - Click on SSH key tabs then copy and paste the SSH key to github (starts with ssh-rsa)
+###### - Add the SSH key.
 ---
 ## Repository Setup
-
+###### -
 
 
 ---
