@@ -55,4 +55,6 @@ _by John Raffaele_
 ###### - git log- shows your past commits.
 ###### - git diff- shows the difference between your current code and the previous commit.
 ###### - git pull- brings any changes from the remote repo down to the local repo.
-###### - git push- 
+###### - git push- pushes everything on the file on to a different file.
+###### - git clone- copies an existing git repository.
+###### - fork - makes a copy of someone elses project and sends if to you so you can edit things or help work on it.
