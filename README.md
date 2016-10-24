@@ -28,13 +28,18 @@ _by John Raffaele_
 ###### - Click on SSH key tabs then copy and paste the SSH key to github (starts with ssh-rsa)
 ###### - Add the SSH key.
 ---
-## Repository Setup
-#### How to make a repository:
+## **Repository Setup**
+#### **How to make a repository:**
+###### - cd~/workspace
 ###### - Open the terminal in cloud9.
 ##### Type ALL of this:
 ###### - mkdir first-repo
 ###### - cd first-repo
 ###### - git init
+###### - touch README.md
+###### - open the README file and type in the README this is my repo.
+###### - save it then add it 
+###### - 
 
 
 
