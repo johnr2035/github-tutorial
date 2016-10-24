@@ -33,15 +33,20 @@ _by John Raffaele_
 ###### - cd~/workspace
 ###### - Open the terminal in cloud9.
 ##### Type ALL of this:
-###### - mkdir first-repo
+###### - mkdir my-repo
 ###### - cd first-repo
 ###### - git init
 ###### - touch README.md
 ###### - open the README file and type in the README this is my repo.
 ###### - save it then add it 
-###### - 
-
-
-
+###### - git commit -m "create readme"
+#### - Go to [github.com](github.com)
+###### - Click on the plus sign on the top right.
+###### - Make the repository name my-repo.
+###### - Click on Create Repository
+###### - Then make sure your on the SSH part on the repository.
+###### - Then copy and paste the second section of code that you see.
+###### - DO IT ONE AT A TIME THOUGH!!!!!
 ---
 ## Workflow & Commands
+###### - git status 
