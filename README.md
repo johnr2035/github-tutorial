@@ -49,4 +49,9 @@ _by John Raffaele_
 ###### - DO IT ONE AT A TIME THOUGH!!!!!
 ---
 ## Workflow & Commands
-###### - git status 
+###### - git init- it initializes git in our directory (now called a repository) for version control.
+###### - git status- an optional command to see which files have been edited since the last command (they will be red)
+###### - git add file.txt- add the file(s) to the stage to be committed (git add adds all the files that have changes)
+###### - git log- shows your past commits.
+###### - git diff- shows the difference between your current code and the previous commit.
+###### - git pull- brings any changes from the remote repo down to the local repo.
