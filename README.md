@@ -55,3 +55,4 @@ _by John Raffaele_
 ###### - git log- shows your past commits.
 ###### - git diff- shows the difference between your current code and the previous commit.
 ###### - git pull- brings any changes from the remote repo down to the local repo.
+###### - git push- 
