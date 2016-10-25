@@ -59,3 +59,4 @@ _by John Raffaele_
 ###### - git clone- copies an existing git repository.
 ###### - forking - makes a copy of someone elses project and sends if to you so you can edit things or help work on it.
 ###### - rm -rf- to uninitialize.
+###### - git remote -v- allows you to track your local branch against almost any branch of a repository
