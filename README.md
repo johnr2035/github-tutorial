@@ -6,15 +6,18 @@ _by John Raffaele_
 ## Git vs. GitHub
 #### Git:
 ###### - Versions Control: keeps "snapshots" of code.
-###### - Doesn't require Github.
-###### - It runs in the command line.
+
 
 #### Github:
-###### - Stores code in the cloud.
 ###### - Visually tracks changes.
 ###### - Easily collarborates on the files that you make.
-###### - Requires Git.
 ###### - [github.com](github.com) - your computer local machine. 
+
+#### What is the difference between **Git** and **GitHub**?  
+* Git doesn't require Github.
+* GitHub requires Git.
+* Git runs in the command line 
+* GitHub is stored in the clouds
 ---
 ## Initial Setup
 ###### - Go to [github.com](github.com)
